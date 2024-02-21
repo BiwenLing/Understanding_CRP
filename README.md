@@ -13,7 +13,8 @@ In this paper, we provide a theoretical framework justifying the existence of a 
 2. This code can also be used to simulate the payoff of dispersion swap when the stock prices follow binomial tree models.
 
 # Reference
-Dhaene, J., Linders, D., Ling, B., and Wang, Qian (2024), 'Understanding the Correlation Risk Premium', Working Paper.
+Dhaene, J., Linders, D., Ling, B., and Wang, Qian (2024), 'Understanding the Correlation Risk Premium', Working Paper. 
+**URL:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4562272
 
 
 
