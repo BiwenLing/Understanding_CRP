@@ -7,11 +7,11 @@ In this paper, we provide a theoretical framework justifying the existence of a 
 # Discription
 **Multi-period_Correlation_Gap.py:**
 1. This script can be used to reproduce the numerical results in Section 3.3.
-2. The code can also be used to calculate realized correlations and implied correlations, as well as realized volatilities and implied volatilities, when the stock prices follow binomial tree models.
+2. The code can also be used to calculate realized correlations and implied correlations, as well as realized volatilities and implied volatilities, when the stock prices follow the multivariate binomial tree model.
 
 **Simulation_Payoff_DispersionSwap.py:**
 1. This script can be used to reproduce the simulation results in Section 6.
-2. This code can also be used to simulate the payoff of dispersion swap when the stock prices follow binomial tree models.
+2. This code can also be used to simulate the payoff of dispersion swap when the stock prices follow follow the multivariate binomial tree model.
 
 # Reference
 Dhaene, J., Linders, D., Ling, B., and Wang, Qian (2024), 'Understanding the Correlation Risk Premium', Working Paper. **URL:** https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4562272
